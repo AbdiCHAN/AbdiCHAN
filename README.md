@@ -1,4 +1,4 @@
-# 👋 Hi, I’m AbdiCHAN
+# 👋 Hi, I’m Abdirahman Cabdi
 
 🚀 Software Engineer | Builder | Problem Solver  
 💻 Turning ideas into scalable, real-world solutions  
