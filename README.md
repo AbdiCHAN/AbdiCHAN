@@ -43,12 +43,12 @@ I build systems that solve real problems and focus on quality over shortcuts.
 - Real-world web applications  
 - Backend-powered systems  
 - Performance & architecture improvements  
-
+-Websites
 ---
 
 ## 🧩 Philosophy
 
-> “Good code is engineered, not rushed.”
+> “life is short so enjoy every second you have and utilise the time you have.”
 
 ---
 
