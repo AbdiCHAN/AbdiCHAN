@@ -1,16 +1,59 @@
-## Hi there 👋
+# 👋 Hi, I’m AbdiCHAN
 
-<!--
-**AbdiCHAN/AbdiCHAN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Software Engineer | Builder | Problem Solver  
+💻 Turning ideas into scalable, real-world solutions  
+🧠 Clean code • Strong fundamentals • Continuous growth  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+
+I’m a software engineer driven by discipline, curiosity, and impact.  
+I build systems that solve real problems and focus on quality over shortcuts.
+
+- 🔥 Consistency over motivation  
+- 🧩 Logic-first problem solving  
+- ⚙️ From idea → architecture → implementation  
+- 📈 Always learning, always building  
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+- JavaScript
+- Python
+- HTML / CSS
+
+**Backend & Systems**
+- APIs
+- Authentication
+- Data handling
+- Scalable architecture
+
+**Tools**
+- Git & GitHub
+- Linux / WSL
+- VS Code
+
+---
+
+## 🚀 What I’m Working On
+
+- Real-world web applications  
+- Backend-powered systems  
+- Performance & architecture improvements  
+
+---
+
+## 🧩 Philosophy
+
+> “Good code is engineered, not rushed.”
+
+---
+
+## 🌍 Connect With Me
+
+🐙 GitHub: https://github.com/AbdiCHAN  
+
+⭐ Follow to see my latest work
