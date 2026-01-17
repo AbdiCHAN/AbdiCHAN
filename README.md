@@ -1,63 +1,84 @@
-# 👋 Hi, I’m Abdirahman Cabdi
+👋 Hi, I’m a Software Engineering Student at Moringa School
 
-🚀 **Software Engineer (Student)** | Builder | Problem Solver
+🚀 Software Engineer | Builder | Problem Solver
 💻 Turning ideas into scalable, real-world solutions
 🧠 Clean code • Strong fundamentals • Continuous growth
 
----
+🧠 About Me
 
-## 🧠 About Me
+I am a software engineering student at Moringa School, passionate about building impactful systems and learning by doing. I focus on creating clean, maintainable, and scalable solutions with a strong emphasis on clarity and structure.
 
-I’m a **21-year-old software engineering student at Moringa School**, driven by discipline, curiosity, and impact.
-I focus on building systems that solve real problems, with an emphasis on clarity, structure, and long-term quality over shortcuts.
+My approach to software development is methodical: from idea → architecture → implementation, with a focus on logic, performance, and long-term quality.
 
-* 🔥 Consistency over motivation
-* 🧩 Logic-first problem solving
-* ⚙️ From idea → architecture → implementation
-* 📈 Always learning, always building
+Core principles I live by:
 
----
+🔥 Consistency over motivation
 
-## 🛠️ Tech Stack
+🧩 Logic-first problem solving
 
-### **Languages**
+⚙️ Systematic approach to building software
 
-* JavaScript
-* Python
-* HTML / CSS
+📈 Lifelong learning and continuous improvement
 
-### **Backend & Systems**
+🛠️ Tech Stack
+Languages & Markup
 
-* API development & integration
-* Authentication & authorization
-* Data handling & persistence
-* Scalable system architecture
+JavaScript (ES6+)
 
-### **Tools & Environment**
+Python
 
-* Git & GitHub
-* Linux / WSL
-* VS Code
+HTML5 / CSS3
 
----
+Backend & Systems
 
-## 🚀 What I’m Working On
+RESTful API development & integration
 
-* Real-world web applications
-* Backend-powered systems
-* Performance & architecture improvements
-* Modern, responsive websites
+Authentication & authorization
 
----
+Data handling & persistence
 
-## 🧩 Philosophy
+Scalable system architecture
 
-> “Life is short, so enjoy every second you have and utilize the time you’re given.”
+Tools & Environment
 
----
+Git & GitHub (version control & collaboration)
 
-## 🌍 Connect With Me
+Linux / WSL (development environment)
 
-🐙 **GitHub**: [https://github.com/AbdiCHAN](https://github.com/AbdiCHAN)
+VS Code (primary IDE)
 
-⭐ Follow my journey as I grow, build, and evolve into a professional software engineer.
+Postman / Insomnia (API testing)
+
+🚀 Projects & Focus Areas
+
+I enjoy building real-world applications that solve tangible problems. Currently focusing on:
+
+Modern, responsive web applications
+
+Backend-powered systems with APIs
+
+Performance optimization and system architecture
+
+End-to-end project development (frontend + backend)
+
+Example project categories:
+
+Event management platforms
+
+E-commerce and product dashboards
+
+API-driven applications
+
+Scalable websites
+
+🧩 Philosophy
+
+“Life is short, so enjoy every second you have and utilize the time you’re given.”
+
+I approach software development with the same mindset: maximize learning, impact, and quality in every project I touch.
+
+🌍 Connect With Me
+
+🐙 GitHub: https://github.com/AbdiCHAN
+
+Follow my journey as I build, learn, and evolve into a professional software engineer.
