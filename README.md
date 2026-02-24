@@ -1,84 +1,98 @@
-👋 Hi, I’m a Software Engineering Student at Moringa School
+# 👋 Hi, I'm Abdirahman
 
-🚀 Software Engineer | Builder | Problem Solver
-💻 Turning ideas into scalable, real-world solutions
-🧠 Clean code • Strong fundamentals • Continuous growth
+🚀 Software Engineer | Builder | Problem Solver  
+💻 Turning ideas into scalable, real-world systems  
+🧠 Clean Code • Strong Fundamentals • Continuous Growth  
 
-🧠 About Me
+---
 
-I am a software engineering student at Moringa School, passionate about building impactful systems and learning by doing. I focus on creating clean, maintainable, and scalable solutions with a strong emphasis on clarity and structure.
+## 🧠 About Me
 
-My approach to software development is methodical: from idea → architecture → implementation, with a focus on logic, performance, and long-term quality.
+I am a software engineering student focused on building structured, scalable, and maintainable systems.
 
-Core principles I live by:
+My development philosophy:
 
-🔥 Consistency over motivation
+Idea → Architecture → Implementation → Optimization
 
-🧩 Logic-first problem solving
+I don’t just write code — I design systems built to last.
 
-⚙️ Systematic approach to building software
+---
 
-📈 Lifelong learning and continuous improvement
+## 🔥 Core Principles
 
-🛠️ Tech Stack
-Languages & Markup
+- Consistency over motivation  
+- Logic-first problem solving  
+- Systematic & scalable thinking  
+- Continuous improvement  
 
-JavaScript (ES6+)
+---
 
-Python
+## 🛠️ Tech Stack
 
-HTML5 / CSS3
+### 💻 Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white)
 
-Backend & Systems
+---
 
-RESTful API development & integration
+### ⚙️ Backend & Systems
+![REST API](https://img.shields.io/badge/REST-APIs-green?style=for-the-badge)
+![Authentication](https://img.shields.io/badge/Auth-Secure-red?style=for-the-badge)
+![Scalable Systems](https://img.shields.io/badge/Scalable-Architecture-purple?style=for-the-badge)
 
-Authentication & authorization
+---
 
-Data handling & persistence
+### 🧰 Tools
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-blue?style=for-the-badge&logo=visualstudiocode)
+![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman)
 
-Scalable system architecture
+---
 
-Tools & Environment
+## 📊 GitHub Stats
 
-Git & GitHub (version control & collaboration)
+![Abdirahman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbdiCHAN&show_icons=true&theme=tokyonight&hide_border=true)
 
-Linux / WSL (development environment)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdiCHAN&layout=compact&theme=tokyonight&hide_border=true)
 
-VS Code (primary IDE)
+---
 
-Postman / Insomnia (API testing)
+## 🔥 GitHub Streak
 
-🚀 Projects & Focus Areas
+![GitHub Streak](https://streak-stats.demolab.com?user=AbdiCHAN&theme=tokyonight&hide_border=true)
 
-I enjoy building real-world applications that solve tangible problems. Currently focusing on:
+---
 
-Modern, responsive web applications
+## 🏆 GitHub Trophies
 
-Backend-powered systems with APIs
+![Trophies](https://github-profile-trophy.vercel.app/?username=AbdiCHAN&theme=tokyonight&no-frame=true&margin-w=10)
 
-Performance optimization and system architecture
+---
 
-End-to-end project development (frontend + backend)
+## 🚀 What I’m Building
 
-Example project categories:
+- Modern web applications  
+- API-driven systems  
+- Full-stack platforms  
+- Scalable architectures  
 
-Event management platforms
+---
 
-E-commerce and product dashboards
+## 🧩 Philosophy
 
-API-driven applications
+> “Life is short — maximize your time, your learning, and your impact.”
 
-Scalable websites
+Build with intention.  
+Learn aggressively.  
+Ship with quality.
 
-🧩 Philosophy
+---
 
-“Life is short, so enjoy every second you have and utilize the time you’re given.”
+## 🌍 Connect With Me
 
-I approach software development with the same mindset: maximize learning, impact, and quality in every project I touch.
-
-🌍 Connect With Me
-
-🐙 GitHub: https://github.com/AbdiCHAN
-
-Follow my journey as I build, learn, and evolve into a professional software engineer.
+🐙 GitHub:  
+https://github.com/AbdiCHAN
